@@ -1,4 +1,4 @@
-# IE598_F18_HW3
+# IE598 Machine Learning Course Project
 
 This is a course project finished during my Master of Science in Financial Engineering Degree.
 
